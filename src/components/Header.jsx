@@ -53,7 +53,7 @@ function Header() {
               </Link>
             </li>
             <li className="nav-item1">
-              <a className="aaa" href="#">
+              <a className="aaa premium" href="#">
                 Premium <sup>VIP</sup>
               </a>
             </li>
