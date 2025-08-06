@@ -1,0 +1,102 @@
+{
+  "items": [
+    [
+      {
+        "id": "001",
+        "image": "https://images.unsplash.com/photo-1506629905607-d9c297d3d45b?w=400&h=600&fit=crop",
+        "company": "LuxeStyle",
+        "item_name": "Diamond-Cut Crystal Earrings",
+        "original_price": 1245,
+        "current_price": 722,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.8, "count": 892 }
+      },
+      {
+        "id": "002",
+        "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&h=600&fit=crop",
+        "company": "TrendWave",
+        "item_name": "Premium Silk Evening Dress",
+        "original_price": 3299,
+        "current_price": 1899,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.6, "count": 156 }
+      },
+      {
+        "id": "003",
+        "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400&h=600&fit=crop",
+        "company": "UrbanChic",
+        "item_name": "Floral Print Midi Skirt Collection",
+        "original_price": 1899,
+        "current_price": 589,
+        "discount_percentage": 69,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.3, "count": 324 }
+      },
+      {
+        "id": "004",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=600&fit=crop",
+        "company": "SportElite",
+        "item_name": "Professional Athletic Jersey",
+        "original_price": 1199,
+        "current_price": 1199,
+        "discount_percentage": 0,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.9, "count": 67 }
+      },
+      {
+        "id": "005",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=600&fit=crop",
+        "company": "ComfortZone",
+        "item_name": "Organic Cotton Premium Tee",
+        "original_price": 1699,
+        "current_price": 595,
+        "discount_percentage": 65,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.5, "count": 2890 }
+      },
+      {
+        "id": "006",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=600&fit=crop",
+        "company": "RunTech",
+        "item_name": "Ultra Boost Performance Sneakers",
+        "original_price": 16995,
+        "current_price": 16995,
+        "discount_percentage": 0,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.7, "count": 234 }
+      },
+      {
+        "id": "007",
+        "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=400&h=600&fit=crop",
+        "company": "StyleCraft",
+        "item_name": "Designer Casual Shorts",
+        "original_price": 1899,
+        "current_price": 759,
+        "discount_percentage": 60,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.4, "count": 567 }
+      },
+      {
+        "id": "008",
+        "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=400&h=600&fit=crop",
+        "company": "FreshScent",
+        "item_name": "Luxury Fragrance Collection 150ml",
+        "original_price": 385,
+        "current_price": 192,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "15 Dec 2024",
+        "rating": { "stars": 4.6, "count": 4200 }
+      }
+    ]
+  ]
+}
