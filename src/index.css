@@ -74,6 +74,10 @@ header {
   color: #8b5cf6;
   font-size: 10px;
 }
+sup {
+    top: -3.0em;
+    right: -42px;
+}
 
 .search_bar {
   height: 40px;
@@ -438,10 +442,14 @@ a.action_container:link {
   flex-direction: row;
   gap: 30px;
 }
+.premium {
+    position: relative;
+    top: 9.2px;
+}
 .nav-options li a {
   color: #282c3f;
   text-decoration: none;
-  padding: 1px;
+  
 }
 .nav-option ul li:hover {
   border-bottom: 3px solid #8b5cf6;
